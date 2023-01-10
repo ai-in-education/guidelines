@@ -29,5 +29,5 @@ Image courtesy of https://twitter.com/aaronsiim
 
 Let's look at the available services and ways of using them for your own personal use or to include them in assessments
 
-1. [ChatGPT](ChatGTP.md)
-2. [Stable Diffusion](StableDiffusion.md)
+1. [ChatGPT](ChatGPT.md)
+2. [Stable Diffusion](StableDiffusion.md) - TODO

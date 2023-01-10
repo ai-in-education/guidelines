@@ -8,7 +8,15 @@ You will need to register for the ChatGPT service at https://chat.openai.com usi
 
 # What can it do?
 
-Chat GPT can help in a variety of tasks
+Chat GPT can help in a variety of tasks. There are multiple websites that provide information on how how can GPT help with your daily tasks or work:
+
+* https://www.learngpt.com - See what others are asking ChatGPT
+* https://github.com/f/awesome-chatgpt-prompts - Awesome GPT prompts
+* https://twitter.com/bentossell/status/1598269692082151424?lang=en - Curated Twitter feed
+* [General Use](https://machinelearningknowledge.ai/chatgpt-demos-and-examples/)
+* [Product Design](https://uxplanet.org/how-to-use-chatgpt-in-product-design-8-practical-examples-a6135308b9b2)
+* [Marketing](https://www.smartinsights.com/managing-digital-marketing/marketing-innovation/how-can-i-use-chatgpt-for-marketing/)
+* [Recruitment](https://www.occupop.com/blog/how-to-use-chatgpt-in-recruitment-10-sample-use-cases)
 
 ## General Use
 

@@ -47,9 +47,10 @@ Chat GPT can help in a variety of tasks. There are multiple websites that provid
 
 The biggest boon of ChatGPT is its capability to generate comprehensive answers to complex questions. The bane is that those answers are often incorrect, such as including bugs in the computer code or stating false answers (TODO: Examples). As a result, the overall goal would be to include ChatGPT in the education with helping to answer some questions, while maintaining tha bility to critically think about the answers.
 
-## ChatGPT in Social Sciences
+## ChatGPT in all Sciences
 
-...
+1. Ask GPT to generate answer to a question and ask students to fact check and mark the answer.
+2. ...
 
 ## ChatGPT in Programming
 

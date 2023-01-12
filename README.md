@@ -31,3 +31,7 @@ Let's look at the available services and ways of using them for your own persona
 
 1. [ChatGPT](ChatGPT.md)
 2. [Stable Diffusion](StableDiffusion.md) - TODO
+
+# Media
+
+* [ABC, ChatGPT appears to pass medical school exams. Educators are now rethinking assessments](https://www.abc.net.au/news/science/2023-01-12/chatgpt-generative-ai-program-passes-us-medical-licensing-exams/101840938)

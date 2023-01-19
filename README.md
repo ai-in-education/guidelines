@@ -8,7 +8,7 @@ We are a group of academics concerned by the integrity of the education process.
 
 * Dr Tomas Trescak, Western Sydney University
 
-# News
+# 🗞️ News
 
 * 19/1/2023 - [TEQSA updates their policies](https://www.teqsa.gov.au/sector-update-maintaining-academic-integrity-policies-and-procedures) to include AI in cheating practices
 
@@ -41,6 +41,6 @@ Below you will find a list of available courses and tutorial that will get you u
 
 * https://nick-s-site-9a5e.thinkific.com/courses/aiteachers
 
-# 📰 Media
+# 📺 Media
 
 * [ABC, ChatGPT appears to pass medical school exams. Educators are now rethinking assessments](https://www.abc.net.au/news/science/2023-01-12/chatgpt-generative-ai-program-passes-us-medical-licensing-exams/101840938)

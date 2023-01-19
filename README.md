@@ -6,8 +6,7 @@ Welcome to the wonderful new world of AI in education. For many of us, the recen
 
 We are a group of academics concerned by the integrity of the education process. Orginially we coordinated in the mailing list **academicintegritynetwork@deakin.edu.au**. The main contributors of this site are:
 
-* You
-* Me
+* Dr Tomas Trescak, Western Sydney University
 
 # Challenges
 
@@ -18,7 +17,7 @@ Modern AI systems provide very confident answers to your queries. Often, these a
 </p>
 ...
 
-# AI Services
+# 🚀 AI Services
 
 The new AI services provide a variety of options, from generating 2D, 3D art, sounds, animations or even answer to a variety of standard or programming problems. Just look at all the services that you can use today:
 
@@ -32,6 +31,12 @@ Let's look at the available services and ways of using them for your own persona
 1. [ChatGPT](ChatGPT.md)
 2. [Stable Diffusion](StableDiffusion.md) - TODO
 
-# Media
+# 👩‍🎓 Courses
+
+Below you will find a list of available courses and tutorial that will get you up to speed with using AI in your teaching process
+
+* https://nick-s-site-9a5e.thinkific.com/courses/aiteachers
+
+# 📰 Media
 
 * [ABC, ChatGPT appears to pass medical school exams. Educators are now rethinking assessments](https://www.abc.net.au/news/science/2023-01-12/chatgpt-generative-ai-program-passes-us-medical-licensing-exams/101840938)

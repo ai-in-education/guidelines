@@ -1,14 +1,18 @@
-# Introduction
+# 🤖 Introduction
 
 Welcome to the wonderful new world of AI in education. For many of us, the recent advances in AI have caught us by surprise with an enormous potential as well as threat it poses for the education. In this repository we summarise existing AI services, the benfits they provide and a possible ways of incorporating them in your teaching process. 
 
-# Who we are
+# 🦹🏾 Who we are
 
 We are a group of academics concerned by the integrity of the education process. Orginially we coordinated in the mailing list **academicintegritynetwork@deakin.edu.au**. The main contributors of this site are:
 
 * Dr Tomas Trescak, Western Sydney University
 
-# Challenges
+# News
+
+* 19/1/2023 - [TEQSA updates their policies](https://www.teqsa.gov.au/sector-update-maintaining-academic-integrity-policies-and-procedures) to include AI in cheating practices
+
+# 🥸 Challenges
 
 Modern AI systems provide very confident answers to your queries. Often, these answers are exactly what you are looking for, but more often you can find some inconsistencies or falsely positive answers. Thus, #1 challenge of interacting with modern AI systems based on OpenAI is to determine, whether the answer is valid or a best possible answer for the current problem. the person asking the question to determine its 
 

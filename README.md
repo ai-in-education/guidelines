@@ -44,3 +44,4 @@ Below you will find a list of available courses and tutorial that will get you u
 # 📺 Media
 
 * [ABC, ChatGPT appears to pass medical school exams. Educators are now rethinking assessments](https://www.abc.net.au/news/science/2023-01-12/chatgpt-generative-ai-program-passes-us-medical-licensing-exams/101840938)
+* [All My Classes Became AI Classes](https://oneusefulthing.substack.com/p/all-my-classes-suddenly-became-ai?r=1z3k9s&utm_campaign=post&utm_medium=web)

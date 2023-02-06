@@ -50,7 +50,8 @@ The biggest boon of ChatGPT is its capability to generate comprehensive answers 
 ## ChatGPT in all Sciences
 
 1. Ask GPT to generate answer to a question and ask students to fact check and mark the answer.
-2. ...
+2. Generate Multiple Choice questions for your quizzes
+3. ...
 
 ## ChatGPT in Programming
 

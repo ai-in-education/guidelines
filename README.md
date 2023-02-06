@@ -10,6 +10,7 @@ We are a group of academics concerned by the integrity of the education process.
 
 # 🗞️ News
 
+* 15/2/2023 - [TEQSA Webinar on Chat GPT, Register Here!](https://www.eventbrite.com.au/e/chatgpt-what-do-we-need-to-know-now-registration-532689387297)
 * 19/1/2023 - [TEQSA updates their policies](https://www.teqsa.gov.au/sector-update-maintaining-academic-integrity-policies-and-procedures) to include AI in cheating practices
 
 # 🥸 Challenges

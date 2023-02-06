@@ -4,9 +4,7 @@ Welcome to the wonderful new world of AI in education. For many of us, the recen
 
 # 🦹🏾 Who we are
 
-We are a group of academics concerned by the integrity of the education process. Orginially we coordinated in the mailing list **academicintegritynetwork@deakin.edu.au**. The main contributors of this site are:
-
-* Dr Tomas Trescak, Western Sydney University
+We are a group of academics concerned by the integrity of the education process. Orginially we coordinated in the mailing list **academicintegritynetwork@deakin.edu.au**. 
 
 # 🗞️ News
 
